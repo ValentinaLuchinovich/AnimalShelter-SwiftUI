@@ -8,27 +8,37 @@
 
 /* Begin PBXBuildFile section */
 		6E7285EC27E4BFB30065BA06 /* Animal_shelter_Swift_UIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285EB27E4BFB30065BA06 /* Animal_shelter_Swift_UIApp.swift */; };
-		6E7285EE27E4BFB30065BA06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285ED27E4BFB30065BA06 /* ContentView.swift */; };
-		6E7285F027E4BFB50065BA06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E7285EF27E4BFB50065BA06 /* Assets.xcassets */; };
+		6E7285EE27E4BFB30065BA06 /* OwnerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285ED27E4BFB30065BA06 /* OwnerList.swift */; };
 		6E7285F327E4BFB50065BA06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E7285F227E4BFB50065BA06 /* Preview Assets.xcassets */; };
 		6E7285FA27E4C2780065BA06 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285F927E4C2780065BA06 /* TopView.swift */; };
 		6E7285FC27E4C90D0065BA06 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285FB27E4C90D0065BA06 /* Cell.swift */; };
 		6E7285FE27E4CCE90065BA06 /* ownerModelData.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E7285FD27E4CCE90065BA06 /* ownerModelData.json */; };
 		6E72860027E4CDAF0065BA06 /* OwnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7285FF27E4CDAF0065BA06 /* OwnerModel.swift */; };
-		6E72860227E4CE740065BA06 /* OwnerResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72860127E4CE740065BA06 /* OwnerResponse.swift */; };
+		6E72860227E4CE740065BA06 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72860127E4CE740065BA06 /* Data.swift */; };
+		6E72860727E887340065BA06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72860627E887340065BA06 /* ContentView.swift */; };
+		6E72860927E8895C0065BA06 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72860827E8895C0065BA06 /* AnimalModel.swift */; };
+		6E72860B27E88ADF0065BA06 /* animalsModelData.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E72860A27E88ADE0065BA06 /* animalsModelData.json */; };
+		6E72860D27E8E1410065BA06 /* AnimalRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72860C27E8E1410065BA06 /* AnimalRow.swift */; };
+		6E72861127E8EE5C0065BA06 /* AnimalItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E72861027E8EE5C0065BA06 /* AnimalItem.swift */; };
+		6E72861327E8F11B0065BA06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E72861227E8F11B0065BA06 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6E7285E827E4BFB30065BA06 /* Animal shelter Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Animal shelter Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E7285EB27E4BFB30065BA06 /* Animal_shelter_Swift_UIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal_shelter_Swift_UIApp.swift; sourceTree = "<group>"; };
-		6E7285ED27E4BFB30065BA06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		6E7285EF27E4BFB50065BA06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6E7285ED27E4BFB30065BA06 /* OwnerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnerList.swift; sourceTree = "<group>"; };
 		6E7285F227E4BFB50065BA06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6E7285F927E4C2780065BA06 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 		6E7285FB27E4C90D0065BA06 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
 		6E7285FD27E4CCE90065BA06 /* ownerModelData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ownerModelData.json; sourceTree = "<group>"; };
 		6E7285FF27E4CDAF0065BA06 /* OwnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnerModel.swift; sourceTree = "<group>"; };
-		6E72860127E4CE740065BA06 /* OwnerResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwnerResponse.swift; sourceTree = "<group>"; };
+		6E72860127E4CE740065BA06 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		6E72860627E887340065BA06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6E72860827E8895C0065BA06 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
+		6E72860A27E88ADE0065BA06 /* animalsModelData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animalsModelData.json; sourceTree = "<group>"; };
+		6E72860C27E8E1410065BA06 /* AnimalRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalRow.swift; sourceTree = "<group>"; };
+		6E72861027E8EE5C0065BA06 /* AnimalItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalItem.swift; sourceTree = "<group>"; };
+		6E72861227E8F11B0065BA06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,14 +71,13 @@
 		6E7285EA27E4BFB30065BA06 /* Animal shelter Swift UI */ = {
 			isa = PBXGroup;
 			children = (
+				6E72860627E887340065BA06 /* ContentView.swift */,
+				6E72860C27E8E1410065BA06 /* AnimalRow.swift */,
+				6E72861027E8EE5C0065BA06 /* AnimalItem.swift */,
 				6E7285EB27E4BFB30065BA06 /* Animal_shelter_Swift_UIApp.swift */,
-				6E7285ED27E4BFB30065BA06 /* ContentView.swift */,
-				6E7285F927E4C2780065BA06 /* TopView.swift */,
-				6E7285FB27E4C90D0065BA06 /* Cell.swift */,
-				6E7285FF27E4CDAF0065BA06 /* OwnerModel.swift */,
-				6E72860127E4CE740065BA06 /* OwnerResponse.swift */,
-				6E7285FD27E4CCE90065BA06 /* ownerModelData.json */,
-				6E7285EF27E4BFB50065BA06 /* Assets.xcassets */,
+				6E72860327E884590065BA06 /* OwnerList */,
+				6E72860427E8848C0065BA06 /* Model */,
+				6E72860527E884A30065BA06 /* Resourses */,
 				6E7285F127E4BFB50065BA06 /* Preview Content */,
 			);
 			path = "Animal shelter Swift UI";
@@ -78,8 +87,38 @@
 			isa = PBXGroup;
 			children = (
 				6E7285F227E4BFB50065BA06 /* Preview Assets.xcassets */,
+				6E72861227E8F11B0065BA06 /* Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6E72860327E884590065BA06 /* OwnerList */ = {
+			isa = PBXGroup;
+			children = (
+				6E7285ED27E4BFB30065BA06 /* OwnerList.swift */,
+				6E7285F927E4C2780065BA06 /* TopView.swift */,
+				6E7285FB27E4C90D0065BA06 /* Cell.swift */,
+			);
+			path = OwnerList;
+			sourceTree = "<group>";
+		};
+		6E72860427E8848C0065BA06 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6E72860827E8895C0065BA06 /* AnimalModel.swift */,
+				6E7285FF27E4CDAF0065BA06 /* OwnerModel.swift */,
+				6E72860127E4CE740065BA06 /* Data.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6E72860527E884A30065BA06 /* Resourses */ = {
+			isa = PBXGroup;
+			children = (
+				6E7285FD27E4CCE90065BA06 /* ownerModelData.json */,
+				6E72860A27E88ADE0065BA06 /* animalsModelData.json */,
+			);
+			path = Resourses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,9 +179,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E72860B27E88ADF0065BA06 /* animalsModelData.json in Resources */,
 				6E7285FE27E4CCE90065BA06 /* ownerModelData.json in Resources */,
+				6E72861327E8F11B0065BA06 /* Assets.xcassets in Resources */,
 				6E7285F327E4BFB50065BA06 /* Preview Assets.xcassets in Resources */,
-				6E7285F027E4BFB50065BA06 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,12 +193,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E7285EE27E4BFB30065BA06 /* ContentView.swift in Sources */,
+				6E7285EE27E4BFB30065BA06 /* OwnerList.swift in Sources */,
+				6E72860727E887340065BA06 /* ContentView.swift in Sources */,
 				6E72860027E4CDAF0065BA06 /* OwnerModel.swift in Sources */,
-				6E72860227E4CE740065BA06 /* OwnerResponse.swift in Sources */,
+				6E72860227E4CE740065BA06 /* Data.swift in Sources */,
+				6E72861127E8EE5C0065BA06 /* AnimalItem.swift in Sources */,
+				6E72860D27E8E1410065BA06 /* AnimalRow.swift in Sources */,
 				6E7285FC27E4C90D0065BA06 /* Cell.swift in Sources */,
 				6E7285FA27E4C2780065BA06 /* TopView.swift in Sources */,
 				6E7285EC27E4BFB30065BA06 /* Animal_shelter_Swift_UIApp.swift in Sources */,
+				6E72860927E8895C0065BA06 /* AnimalModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,17 +328,17 @@
 		6E7285F727E4BFB50065BA06 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Animal shelter Swift UI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Animal\\ shelter\\ Swift\\ UI/Preview\\ Content";
 				DEVELOPMENT_TEAM = NHUDCP2K7S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = e;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -313,17 +357,17 @@
 		6E7285F827E4BFB50065BA06 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Animal shelter Swift UI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Animal\\ shelter\\ Swift\\ UI/Preview\\ Content";
 				DEVELOPMENT_TEAM = NHUDCP2K7S;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = e;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
