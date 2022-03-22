@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  OwnerList.swift
 //  Animal shelter Swift UI
 //
 //  Created by Валентина Лучинович on 18.03.2022.
@@ -15,6 +15,7 @@ struct OwnerList: View {
             }
             .listStyle(.inset)
             .navigationTitle("Хозяева")
+            .navigationBarTitleDisplayMode(.inline)
         }
     }
 }

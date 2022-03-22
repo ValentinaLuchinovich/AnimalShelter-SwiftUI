@@ -20,7 +20,10 @@ struct AnimalRow: View {
             ScrollView(.horizontal) {
                 HStack(alignment: .center, spacing: 0) {
                     ForEach(self.animals) { animal in
-                        AnimalItem(object: animal)
+                        NavigationLink(destination: DetailScreen(animal: animal)) {
+                            AnimalItem(object: animal)
+                        }
+                        
                     }
                 }
             } .frame(height: 190)

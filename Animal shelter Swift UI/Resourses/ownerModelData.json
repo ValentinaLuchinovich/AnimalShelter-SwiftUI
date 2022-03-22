@@ -2,50 +2,50 @@
 [
     {
         "id": 1,
-        "name": "Don Ford",
+        "name": "Михаил",
         "email": "caesar.zieme@kacey.net",
         "profileImage": "first",
-        "likes": "12.2K",
-        "text": "Do you want to download free song for ipod? If so, reading this article could save you from getting in to a lot of trouble! Downloading music to your Ipod has more than one pitfall associated with it, and this article will tell you the best way to download free song for Ipod."
+        "animals": "1",
+        "text": "Бен стал первым животным, которого мы взяли в семью и ни разу не пожалели, что взяли собаку из приюта, теперь он неотъемлемый член семьи."
     },
     {
-        "name": "Louisa Poole",
+        "name": "Лариса",
         "email": "heloise.kub@gmail.com",
         "profileImage": "second",
-        "likes": "34.5K",
+        "animals": "1",
         "id": 2,
-        "text": "The point of this article is to help you grasp the big picture of getting six pack abs."
+        "text": "Пока у нас только один котик в симье, но мы уже думаем о втором, а может и о третьем."
     },
     {
-        "name": "Brent Neal",
+        "name": "Кирилл",
         "email": "christina_raynor@hotmail.com",
         "profileImage": "third",
-        "likes": "22.2K",
+        "animals": "2",
         "id": 3,
-        "text": "In short, to get six pack abs, you need to get leaner and develop your abs’ musculature. This is done through training and nutrition. The topic of nutrition is covered extensively elsewhere on the net: I won’t delve in it."
+        "text": "Нашей дружбе уже почти три месяца. Моя жизнь изменилась, и его, конечно, тоже. Но я на все сто уверена, что в лучшую сторону! Каждый день я стараюсь, чтобы у Найта было все для счастливой собачьей жизни, а Найт отвечает мне морем эмоций, нежностью и любовью."
     },
     {
         "id": 4,
-        "name": "Don Ford",
+        "name": "Матвей",
         "email": "caesar.zieme@kacey.net",
         "profileImage": "first",
-        "likes": "12.2K",
-        "text": "Do you want to download free song for ipod? If so, reading this article could save you from getting in to a lot of trouble! Downloading music to your Ipod has more than one pitfall associated with it, and this article will tell you the best way to download free song for Ipod."
+        "animals": "3",
+        "text": "Зайка живет у нас уже три месяца, с 1 мая. Я увидела ее в Time Out в самый разгар пандемии. На дворе стоял этот ужасный апрель, который мы все запомним надолго. Открыла статью о том, как непросто приходится приютам из-за карантинных ограничений, листала фото животных, читала их истории — и вдруг увидела Ее. Точнее, эти глаза. И пропала! Как в песне: «мое сердце остановилось…отдышалось немного и снова пошло». Я написала куратору Ирине, хотя была уверена, что на Зайку уже выстроилась очередь из желающих. Оказалось — ничего подобного."
     },
     {
-        "name": "Louisa Poole",
+        "name": "Карина",
         "email": "heloise.kub@gmail.com",
         "profileImage": "second",
-        "likes": "34.5K",
+        "animals": "3",
         "id": 5,
-        "text": "The point of this article is to help you grasp the big picture of getting six pack abs."
+        "text": "Завести кошку всегда было для меня чем-то из взрослой, самостоятельной жизни. И, посчитав, что я уже довольно взрослая и вполне самостоятельная, я начала иногда просматривать посты, в которых предлагали приютить питомца. Почему-то я была уверена, что когда увижу ту самую, свою, то сразу все пойму. Через какое-то время я поняла, что готова подприть любовь не только Тучке, но и дркгим кошкам."
     },
     {
-        "name": "Brent Neal",
+        "name": "Алексей",
         "email": "christina_raynor@hotmail.com",
         "profileImage": "third",
-        "likes": "22.2K",
+        "animals": "2",
         "id": 6,
-        "text": "In short, to get six pack abs, you need to get leaner and develop your abs’ musculature. This is done through training and nutrition. The topic of nutrition is covered extensively elsewhere on the net: I won’t delve in it."
+        "text": "Ерофея я заметила несколько месяцев назад, во время посещения приюта в качестве волонтера. Первое, что слышишь, заходя в сектор, — это громкое «мрр» Ерофея. Невозможно было не обратить внимание на огромного белого кота. У нас с мужем уже жила дома кошечка, подобранная осенью с улицы, и, когда мы твердо решили взять второго кота, выбор был очевиден."
     }
 ]

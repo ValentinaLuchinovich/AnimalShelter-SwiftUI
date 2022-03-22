@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AnimalHomePage: View {
     
     var animals: [String: [AnimalsModel]] {
         .init(grouping: animalResponse, by: {$0.category.rawValue})
@@ -22,17 +22,17 @@ struct ContentView: View {
                 }.listRowInsets(EdgeInsets())
                 
                 NavigationLink(destination: OwnerList()) {
-                    Text("Новые хозяева")
+                    Text("Истории новых хозяев")
                 }
             }
             .listStyle(.inset)
-            .navigationTitle("Приют для животных")
+            .navigationTitle("Приют")
         }
     }
 }
 
 struct SwiftUIView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        AnimalHomePage()
     }
 }

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-let animalShulter = OwnerModel(id: 10, name: "Новый дом", profileImage: "logo", email: "newhoume@mail.ru", likes: "66.6K", text: "Приют где каждый найдёт себе новый дом, где окружат любовью и заботой")
+let animalShulter = OwnerModel(id: 10, name: "Новый дом", profileImage: "logo", email: "newhoume@mail.ru", animals: "127", text: "Приют где каждый найдёт себе новый дом, где окружат любовью и заботой")
 
 let ownerResponse: [OwnerModel] = load("ownerModelData.json")
 let animalResponse: [AnimalsModel] = load("animalsModelData.json")

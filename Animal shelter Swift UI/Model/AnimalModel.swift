@@ -17,14 +17,10 @@ struct AnimalsModel: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
     var image: String
-    var shortName: String
     var category: AnimalType
     var description: String
-    var rating: Double
-    var students: Int
-    var lessons: Int
-    var isFavorite: Bool
-    var isFeatured: Bool
+    var days: Int
+    var age: Int
 }
 
 

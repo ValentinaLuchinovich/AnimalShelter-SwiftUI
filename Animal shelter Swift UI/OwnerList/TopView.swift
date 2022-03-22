@@ -24,7 +24,7 @@ struct TopView: View {
                         .font(.subheadline)
                     Spacer()
                     Image(systemName: "heart")
-                    Text(owner.likes)
+                    Text(owner.animals)
                         .font(.subheadline)
                 }
             }

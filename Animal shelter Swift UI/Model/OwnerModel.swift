@@ -14,6 +14,6 @@ struct OwnerModel: Hashable, Codable, Identifiable {
     var name: String
     var profileImage: String
     var email: String
-    var likes: String
+    var animals: String
     var text: String
 }

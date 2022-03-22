@@ -11,7 +11,7 @@ import SwiftUI
 struct Animal_shelter_Swift_UIApp: App {
     var body: some Scene {
         WindowGroup {
-            OwnerList()
+            AnimalHomePage()
         }
     }
 }
