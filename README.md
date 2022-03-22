@@ -9,5 +9,5 @@
 2. Использованы NavigationView, NavigationLink, List, ScrollView.
 <br> 3. Получение данных из JSON и парсинг. </br>
 
-<img src="https://github.com/ValentinaLuchinovich/AnimalShelter-SwiftUI/blob/Screenshots/IMG_6750.PNG" width="400"/ <imgsrc="https://github.com/ValentinaLuchinovich/AnimalShelter-SwiftUI/blob/Screenshots/IMG_6751.PNG" width="400"/>
+<img src="https://github.com/ValentinaLuchinovich/AnimalShelter-SwiftUI/blob/Screenshots/IMG_6750.PNG" width="400"/> <img src="https://github.com/ValentinaLuchinovich/AnimalShelter-SwiftUI/blob/Screenshots/IMG_6751.PNG" width="400"/>
 
